@@ -21,7 +21,7 @@
 
 > ![菜单栏3](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/菜单栏3.png)
 
-> ![完整](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/完整.png)
+> ![fi](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/fi.png)
 
 > over
 
