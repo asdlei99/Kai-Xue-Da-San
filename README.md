@@ -21,7 +21,7 @@
 
 > ![菜单栏3](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/菜单栏3.png)
 
-> <img src="https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/fi.png" alt="fi" style="zoom: 25%;" />
+![fi](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/10/fi.png)
 
 > over
 
