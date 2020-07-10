@@ -1,0 +1,25 @@
+int main()
+{
+   int a,b;
+   int c;
+   char flag;
+   int d=5;
+   int arr[8];
+   flag='b';
+   arr[7]=1;
+   b=2*a+4;
+   c=(3.14*b)/8+a;
+   if(b>=c)
+   {
+      c=b;
+   }
+   else
+   {
+      b=c;
+   }
+   while(a<=b)
+   {
+      a=a+1;
+      c=c+2;
+   }
+}

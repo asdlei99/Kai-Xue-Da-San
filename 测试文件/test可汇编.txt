@@ -1,0 +1,21 @@
+int main()
+{
+   int a,b;
+   int c;
+   int d=5;
+   b=2*a+4;
+   c=(3*b)/8+a;
+   if(b>=c)
+   {
+      c=b;
+   }
+   else
+   {
+      b=c;
+   }
+   while(a<=b)
+   {
+      a=a+1;
+      c=c+2;
+   }
+}

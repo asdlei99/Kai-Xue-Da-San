@@ -1,0 +1,10 @@
+int main()
+{
+   int a,b;
+   float c;
+   char flag;
+   int d=5;
+   flag='b';
+   b=2*a+4;
+   c=(3.14*b)/8+a;
+}
