@@ -19,3 +19,19 @@
 ```C++
 //  2020/7/4
 ···
+
+```
+
+
+
+###  界面展示
+
+>![初始界面](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/初始界面.png)
+>
+>![打开文件2](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/打开文件2.png)
+
+![菜单栏2](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/菜单栏2.png)
+
+![菜单栏3](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/菜单栏3.png)
+
+![完整](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/完整.png)
