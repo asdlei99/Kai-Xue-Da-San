@@ -20,8 +20,8 @@
 > ![菜单栏2](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/菜单栏2.png)
 
 > ![菜单栏3](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/菜单栏3.png)
-
-![fi](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/202007/10/fi.png)
+>
+> ![生成目标代码](https://kwon-bucket.oss-cn-beijing.aliyuncs.com/img/20200710/生成目标代码.png)
 
 > over
 
